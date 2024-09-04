@@ -1,12 +1,10 @@
 ## 1. Proses Instalasi Sistem Operasi Linux Mint pada VMware
 
 Gambar ini menunjukkan proses login Linux Mint di VMware yang memerlukan kata sandi:
-
-![Proses Login Linux Mint](path_to_image)
+![Screenshot 2024-08-29 192920](https://github.com/user-attachments/assets/edcd9778-424f-4614-9650-a5552003d0f4)
 
 Setelah memasukkan kata sandi, tampilan Linux Mint pada VMware akan seperti ini:
-
-![Tampilan Linux Mint](path_to_image)
+![Screenshot 2024-08-29 193041](https://github.com/user-attachments/assets/8254765f-0894-4500-8f09-8d6ec202e56a)
 
 ## 2. Pentingnya Penggunaan `/` pada Opsi Mount Point saat Instalasi
 
